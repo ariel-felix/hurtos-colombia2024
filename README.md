@@ -62,6 +62,8 @@ Power Query para tratamiento de datos;
 DAX para medidas.
 
 #### Visualización del Informe
+Obs: El proyecto completo para download está disponible en un archivo adjunto.
+
 ![image](https://github.com/user-attachments/assets/2922f0d3-90ca-4796-86e7-af5a777fe1c8)
 
 1.Visualización General
